@@ -10,7 +10,7 @@ Nesse projeto, o objetivo era criar uma tela de login, contudo acrescentei, vali
 
 ## Veja como ficou
 ![Desktop](./assets/img/screenshot/desktop.jpeg)
-![Mobile](./assets/img/screenshot/desktop.jpeg)
+![Mobile](./assets/img/screenshot/mobile.jpeg)
 
 ## Minha redes sociais
 [Linkedin](https://www.linkedin.com/in/devamauryjr/)
